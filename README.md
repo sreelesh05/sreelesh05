@@ -1,5 +1,15 @@
-# 💫 About Me:
-🚀 About Me<br><br>🔭 I’m currently working on<br><br>An AI-powered Certificate Decoder for intelligent document analysis<br><br>A Portfolio Management System built with Django<br><br>Strengthening my problem-solving skills through backend-focused projects<br><br>🤝 I’m looking to collaborate on<br><br>Web Applications<br><br>Backend-heavy projects<br><br>AI/ML-based systems<br><br>Open-source contributions in tech & automation<br><br>🛠 I’m looking for help with<br><br>Writing clean, scalable backend architecture<br><br>Mastering complex programming concepts<br><br>Optimizing performance in AI & web systems<br><br>Advanced system design and cloud deployment<br><br>🌱 I’m currently learning<br><br>AWS Hosting & Cloud Deployment<br><br>Advanced Django & REST APIs<br><br>Assembly Language (low-level programming fundamentals)<br><br>Data Structures & Algorithms<br><br>Software architecture principles<br><br>💬 Ask me about<br><br>Backend development with Django<br><br>AI-based mini projects<br><br>Electronics & Communication fundamentals<br><br>How to start building real-world tech projects as a student<br><br>⚡ Fun fact<br>I enjoy building systems that combine hardware logic with software intelligence — blending my ECE background with AI and backend development.
+<h2 align="center">I'm Sreelesh KV</h2>
+
+<p align="center">
+B.Tech ECE Student | Backend & AI Enthusiast
+</p>
+
+🔭 Building: AI Certificate Decoder & Django Portfolio System  
+🤝 Open to: Web Apps, Backend & AI Projects  
+🌱 Learning: AWS, Django, Assembly, DSA  
+💬 Ask me about: Backend Development & AI Projects  
+⚡ Fun fact: I blend hardware logic with software intelligence.
+
 
 
 # 💻 Tech Stack:
